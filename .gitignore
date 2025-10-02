@@ -1,0 +1,20 @@
+# Data files
+*.csv
+*.tsv
+*.txt
+*.maf
+*.bed
+*.gtf
+*.docx
+*.Rmd
+*.md
+00_data/
+
+# Output files
+*.png
+**/outputs/
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user
